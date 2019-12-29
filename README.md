@@ -17,7 +17,7 @@ You will need to have:
 Install the template with [Iris CLI](https://github.com/kataras/iris-cli):
 
 ```sh
-iris-cli new svelte
+iris-cli new --module=my-app svelte
 ```
 
 Install the dependencies and build the svelte app with [Rollup](https://rollupjs.org)...
