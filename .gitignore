@@ -1,5 +1,7 @@
 .DS_Store
-/app/node_modules/
-/app/public/build/
-/app/package-lock.json
+/app/node_modules/**
+/app/public/build/**
+app/package-lock.json
 go.sum
+# ignore iris project file
+.iris.yml
