@@ -25,7 +25,7 @@ Install the dependencies and build the svelte app with [Rollup](https://rollupjs
 ```sh
 cd app
 npm install
-npm run build
+npm run dev (for livereload)
 ```
 
 ...then **start the Iris web server**:
@@ -36,3 +36,9 @@ go run main.go
 ```
 
 Navigate to [localhost:8080](http://localhost:8080). You should see your app running.
+
+For building the production bundle:
+```sh
+cd app
+npm run build (for build the production bundle)
+```
