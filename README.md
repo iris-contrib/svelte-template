@@ -1,5 +1,8 @@
 # svelte app
 
+[![build status](https://img.shields.io/github/workflow/status/iris-contrib/svelte-template/CI/main?style=for-the-badge)](https://github.com/iris-contrib/svelte-template/actions) [![report card](https://img.shields.io/badge/report%20card-a%2B-ff3333.svg?style=for-the-badge)](https://goreportcard.com/report/github.com/iris-contrib/svelte-template)
+
+
 This is a project template for [Iris](https://iris-go.com) & [Svelte](https://svelte.dev) apps based on [sveltejs/template](https://github.com/sveltejs/template).
 
 ![](screenshot.png)
